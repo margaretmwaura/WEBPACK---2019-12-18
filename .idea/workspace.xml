@@ -1,11 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a8c26f5-d743-4052-9639-a97347839b43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../StylingChallenge/.idea/StylingChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/WEBPACKER.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../foundationapp/.idea/foundationapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../websiteone/.idea/websiteone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../websitetwo/.idea/websitetwo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sassproject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sassproject/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../websitetwo/index.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1V92ixCzTO0vuCWFcQOFGLs78Is" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a8c26f5-d743-4052-9639-a97347839b43" name="Default Changelist" comment="" />
+      <created>1576651120157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576651120157</updated>
+      <workItem from="1576651121420" duration="12038000" />
+      <workItem from="1576690482529" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="558" key="GridCell.Tab.0.bottom" timestamp="1576690435095">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="558" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1576673913949" />
+    <state width="1238" height="558" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1576673447755" />
+    <state width="1238" height="558" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1576690435095" />
+    <state width="1238" height="558" key="GridCell.Tab.0.center" timestamp="1576690435094">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="558" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1576673913948" />
+    <state width="1238" height="558" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1576673447755" />
+    <state width="1238" height="558" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1576690435094" />
+    <state width="1238" height="558" key="GridCell.Tab.0.left" timestamp="1576690435089">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="558" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1576673913947" />
+    <state width="1238" height="558" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1576673447754" />
+    <state width="1238" height="558" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1576690435089" />
+    <state width="1238" height="558" key="GridCell.Tab.0.right" timestamp="1576690435094">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="558" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1576673913948" />
+    <state width="1238" height="558" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1576673447755" />
+    <state width="1238" height="558" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1576690435094" />
+    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup" timestamp="1576664665399">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup/0.23.1280.715@0.23.1280.715" timestamp="1576664665399" />
   </component>
 </project>
